@@ -1,0 +1,24 @@
+form{
+    margin-top: 20%;
+
+}
+
+.fa-solid{
+    font-size: 100px;
+    color: #DA70D6;
+}
+
+body{
+    background-color: #DDA0DD;
+}
+
+.form-label{
+    color: white;
+    font-size: 30px;
+}
+
+.btn{
+    width: 40%;
+margin: 3%;
+}
+
