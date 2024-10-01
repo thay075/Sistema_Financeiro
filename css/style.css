@@ -1,24 +1,32 @@
 form{
     margin-top: 20%;
-
-}
-
+    text-align: left;
+ }
+ 
 .fa-solid{
     font-size: 100px;
-    color: #DA70D6;
+    color: rgb(201, 172, 253);
 }
-
+ 
 body{
-    background-color: #DDA0DD;
+    background-color: #582885;
 }
-
+ 
 .form-label{
-    color: white;
-    font-size: 30px;
+    color: rgb(201, 172, 253);
+    font-size: 20px;
 }
-
+ 
 .btn{
     width: 40%;
-margin: 3%;
+    margin-left: 25px;
+    padding: 2px;
 }
-
+.button{
+    text-align: center;
+}
+ 
+.btn a {
+    color: white;
+    text-decoration: none;
+}
